@@ -5,31 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb09a5de-71b8-47a2-97e4-d816c48e75b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/levisstrauss/sunlabaccesssystem/Controllers/dashboardController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/levisstrauss/sunlabaccesssystem/Controllers/loginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/levisstrauss/sunlabaccesssystem/Controllers/userController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/levisstrauss/sunlabaccesssystem/Database/DatabaseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/levisstrauss/sunlabaccesssystem/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/levisstrauss/sunlabaccesssystem/Objects/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/levisstrauss/sunlabaccesssystem/Objects/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/jensd/fx/glyphs/fontawesome/FontAwesomeIconView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/levisstrauss/sunlabaccesssystem/dashboard.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/levisstrauss/sunlabaccesssystem/login.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/levisstrauss/sunlabaccesssystem/manage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +73,7 @@
       <recent name="com.levisstrauss.sunlabaccesssystem" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/src/main/resources/com/levisstrauss/sunlabaccesssystem" />
     </key>
   </component>
@@ -139,7 +116,7 @@
       <workItem from="1694026169437" duration="740000" />
       <workItem from="1694038541428" duration="59000" />
       <workItem from="1694038720651" duration="2709000" />
-      <workItem from="1694317121334" duration="17553000" />
+      <workItem from="1694317121334" duration="19139000" />
     </task>
     <servers />
   </component>

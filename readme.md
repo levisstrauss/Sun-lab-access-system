@@ -20,3 +20,16 @@
 ----------------------- Admin dashboard interface ------------------------------------>
 
 ![dashboard](./images/3.png)
+
+
+----------------------- Search by id ------------------------------------>
+![dashboard](./images/id.png)'
+
+----------------------- Search by date ------------------------------------>
+![dashboard](./images/date.png)
+
+----------------------- Search by time error ------------------------------------>
+![dashboard](./images/time1.png)
+
+----------------------- Search by time ------------------------------------>
+![dashboard](./images/time2.png)
