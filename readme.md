@@ -7,11 +7,11 @@
     - The application can be extended to allow more functionalities such us adding a new admin and
       more importantly, managing user access to the lab.
 
-    The user and ther admin have acces to the same window but only the admin can click
-    the admin button to login to the dashboard where he/she can see all the data related to
+    The user and the admin have access to the same window but only the admin can click
+    the admin button to login to the dashboard where he/she can see all data related to
     to all users. The admin can also search for a user by their id, or date, or time range.
 
-    - In the bottom, we have some simple screenshot of the application
+    - We have some simple screenshots of the application
  
 ----------------------- User swipe interface ------------------------------------>
 
