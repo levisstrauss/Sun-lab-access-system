@@ -2,14 +2,14 @@
 
     - This is a simple Sun lab access system. It has been written in Java with the user interface
       implemented in JavaFX. The system is designed to be used by the lab administrator to manage the
-      lab access. For now, the admin can only seach user by their id, date, and time range. 
+      lab access. For now, the admin can only search users by their ID, date, and time range. 
 
-    - The application can be extended to allow more functionalities such us adding a new admin and
+    - The application can be extended to allow more functionalities such as adding a new admin and
       more importantly, managing user access to the lab.
 
     The user and the admin have access to the same window but only the admin can click
-    the admin button to login to the dashboard where he/she can see all data related to
-    to all users. The admin can also search for a user by their id, or date, or time range.
+    the admin button to log in to the dashboard where he/she can see all data related to
+    to all users. The admin can also search for a user by their ID, date, or time range.
 
     - We have some simple screenshots of the application
  
